@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "job_id": "EP001-TTS001-tts",
+  "modality": "tts",
+  "adapter": "gptsovits-xiang",
+  "prompt": "老伴啊，今天天气好，咱们推着轮椅去公园透透气。",
+  "outputs": ["剧集/EP001/制作成果/audio/EP001-TTS001.wav"],
+  "parameters": {"speed": 1.1},
+  "overwrite": false
+}

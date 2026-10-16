@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "job_id": "DIRECT-VIDEO-T2V-TEST",
+  "modality": "video",
+  "adapter": "autodl-h3",
+  "prompt": "午后的社区公园，一位白发老人推着助行器缓缓走在林荫道上，阳光透过树叶洒下光斑，镜头缓慢跟随。",
+  "outputs": ["剧集/EP001/制作成果/video/DIRECT-VIDEO-T2V-TEST.mp4"],
+  "parameters": {"duration": 5, "ratio": "9:16", "resolution": "768p"},
+  "overwrite": false,
+  "run_id": "direct-video-selftest-001",
+  "project_root": "D:\\@kaifa\\manju\\adapters\\selftest",
+  "output_root": "D:\\@kaifa\\manju\\adapters\\selftest\\tmp-out"
+}

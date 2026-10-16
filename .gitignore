@@ -1,0 +1,25 @@
+# 第三方克隆：各自带 .git 与独立许可，不在本仓库分发
+/tools/
+
+# 浏览器配置目录：含 cookie 与登录态，绝不公开
+/deploy/autodl-browser-profile/
+
+# 运行状态与缓存
+**/.short-drama/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 音视频与试音样本
+*.mov
+*.mp4
+*.mkv
+*.avi
+*.wav
+*.mp3
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini

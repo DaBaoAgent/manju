@@ -1,0 +1,38 @@
+{
+  "adapters": {
+    "gptsovits-xiang": {
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "-X",
+        "utf8",
+        "D:\\@kaifa\\manju\\adapters\\gptsovits_tts_adapter.py"
+      ],
+      "timeout_seconds": 600,
+      "reference_roles": ["reference_audio"]
+    },
+    "autodl-h3": {
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "-X",
+        "utf8",
+        "D:\\@kaifa\\manju\\adapters\\autodl_h3_adapter.py",
+        "--profile",
+        "video"
+      ],
+      "timeout_seconds": 3600,
+      "reference_roles": ["reference_image", "first_frame", "last_frame"]
+    },
+    "autodl-h3-audio": {
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "-X",
+        "utf8",
+        "D:\\@kaifa\\manju\\adapters\\autodl_h3_adapter.py",
+        "--profile",
+        "audio"
+      ],
+      "timeout_seconds": 3600,
+      "reference_roles": ["first_frame", "reference_audio"]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-10-15T07:54:41.417417+00:00",
+  "source_base": "http://192.168.1.79:8789",
+  "root": "archive",
+  "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿",
+  "files": [
+    {
+      "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿/助行器主图-绿色2.jpg",
+      "via": "mirror",
+      "local_path": "助行器主图-绿色2.jpg",
+      "bytes": 174895,
+      "sha256": "a1766f63b89e615c2990eea5fd03a25eea39b0c17a53d83c6e338772486f65db",
+      "fetched_at": "2026-10-15T07:54:41.417417+00:00"
+    },
+    {
+      "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿/助行器主图-绿色3.jpg",
+      "via": "mirror",
+      "local_path": "助行器主图-绿色3.jpg",
+      "bytes": 180954,
+      "sha256": "ae55a23b7875abbd1dc2525cd6cf94089ffe35fb88b2aabc912d267443fbc4c0",
+      "fetched_at": "2026-10-15T07:54:41.417417+00:00"
+    },
+    {
+      "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿/助行器主图-绿色4.jpg",
+      "via": "mirror",
+      "local_path": "助行器主图-绿色4.jpg",
+      "bytes": 177095,
+      "sha256": "7c1f38c1e9754e5f8198068d4c16285c265f0bf3487f517d40d0a766342187f3",
+      "fetched_at": "2026-10-15T07:54:41.417417+00:00"
+    },
+    {
+      "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿/助行器主图-绿色5.jpg",
+      "via": "mirror",
+      "local_path": "助行器主图-绿色5.jpg",
+      "bytes": 157122,
+      "sha256": "a11176b2f171471508a7a2b5b7a90aa0feeaf0b0f011ae6fd8eefff56db356c2",
+      "fetched_at": "2026-10-15T07:54:41.417417+00:00"
+    },
+    {
+      "source_path": "10 产品高清图/@佳康顺高清产品图/助行器 朋友2/绿/助行器主图-绿色6.jpg",
+      "via": "mirror",
+      "local_path": "助行器主图-绿色6.jpg",
+      "bytes": 138659,
+      "sha256": "4324efb0e619653d2021f2d3cd3b6e63f248b29bd3d3e0803860a0feaf3e5b1a",
+      "fetched_at": "2026-10-15T07:54:41.417417+00:00"
+    }
+  ],
+  "updated_at": "2026-10-15T07:54:41.417417+00:00"
+}

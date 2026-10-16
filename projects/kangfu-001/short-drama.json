@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-10-12T02:58:42.203722Z",
+  "creator_authority": {
+    "constraints": [],
+    "decisions_artifact": "创作者决策/",
+    "delivery_surface": {
+      "aspect": null,
+      "overlay_regions": [],
+      "source_ref": null,
+      "status": "unset"
+    },
+    "production_profile": {
+      "choices": {
+        "audio_generation": "same_pass",
+        "native_duration_seconds": {
+          "max": 15,
+          "min": 4
+        },
+        "supported_generation_modes": [
+          "text",
+          "reference"
+        ],
+        "target_video_model": "seedance-2.0",
+        "video_prompt_dialect": "seedance-2.0",
+        "video_prompt_language": "zh-CN"
+      },
+      "status": "accepted"
+    },
+    "rhythm_profile": {
+      "status": "unset"
+    },
+    "visual_direction": {
+      "choices": {
+        "look_development": null
+      },
+      "status": "unset"
+    }
+  },
+  "format": {
+    "aspect_ratio": "9:16",
+    "episode_count": 6,
+    "pacing": {
+      "seconds_per_action_paragraph": null,
+      "spoken_characters_per_second": null
+    },
+    "prompt_language": "zh",
+    "target_seconds_per_episode": 150.0
+  },
+  "language": "zh",
+  "project_id": "SD-CF43E0668F59",
+  "schema_version": "1.0.0-draft",
+  "title": "佳康顺康复辅具漫剧"
+}

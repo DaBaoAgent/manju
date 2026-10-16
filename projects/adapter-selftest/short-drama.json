@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-10-12T05:57:09.537535Z",
+  "creator_authority": {
+    "constraints": [],
+    "decisions_artifact": "创作者决策/",
+    "delivery_surface": {
+      "aspect": null,
+      "overlay_regions": [],
+      "source_ref": null,
+      "status": "unset"
+    },
+    "production_profile": {
+      "choices": {},
+      "status": "unset"
+    },
+    "rhythm_profile": {
+      "status": "unset"
+    },
+    "visual_direction": {
+      "choices": {
+        "look_development": null
+      },
+      "status": "unset"
+    }
+  },
+  "format": {
+    "aspect_ratio": "9:16",
+    "episode_count": 1,
+    "pacing": {
+      "seconds_per_action_paragraph": null,
+      "spoken_characters_per_second": null
+    },
+    "prompt_language": "en",
+    "target_seconds_per_episode": 30.0
+  },
+  "language": "zh",
+  "project_id": "SD-875494256E70",
+  "schema_version": "1.0.0-draft",
+  "title": "Adapter 验证"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "job_id": "DIRECT-VIDEO-MULTIREF-TEST",
+  "modality": "video",
+  "adapter": "autodl-h3",
+  "prompt": "老奶奶坐在轮椅上笑着挥手，身旁的助行器静静立着，暖色客厅光线。",
+  "outputs": ["剧集/EP001/制作成果/video/DIRECT-VIDEO-MULTIREF-TEST.mp4"],
+  "parameters": {"duration": 12, "ratio": "9:16", "resolution": "768p"},
+  "reference_bindings": [
+    {
+      "slot_id": "REF-PRODUCT",
+      "order": 1,
+      "path": "upload-test.png",
+      "label": "产品参考图",
+      "role": "reference_image",
+      "may_control": ["产品外观"],
+      "must_not_control": ["构图"]
+    }
+  ],
+  "outputs_note": "12 秒多图路由到 b99_003_12s",
+  "overwrite": false,
+  "run_id": "direct-video-selftest-002",
+  "project_root": "D:\\@kaifa\\manju\\adapters\\selftest",
+  "output_root": "D:\\@kaifa\\manju\\adapters\\selftest\\tmp-out"
+}

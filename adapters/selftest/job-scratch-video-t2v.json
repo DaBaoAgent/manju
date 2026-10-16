@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "job_id": "EP001-VIDEO001-video",
+  "modality": "video",
+  "adapter": "autodl-h3",
+  "prompt": "午后的社区公园，一位白发老人推着助行器缓缓走在林荫道上，阳光透过树叶洒下光斑，镜头缓慢跟随。",
+  "outputs": ["剧集/EP001/制作成果/video/EP001-VIDEO001.mp4"],
+  "parameters": {"duration": 5, "ratio": "9:16", "resolution": "768p"},
+  "overwrite": false
+}
